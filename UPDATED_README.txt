@@ -43,7 +43,7 @@ And according to order canteen people will make foods and deliver to the respect
 And customer can pay amount from their account directly.
 
 
-
+-------------------------------------------------------------------------------------------------------------------
 
 
 Note: Different Process : Important Points Regarding this app.....
@@ -64,7 +64,9 @@ Note: Different Process : Important Points Regarding this app.....
 
 
 
-Advantages: 
+			Advantages:
+			
+			
 	   1.Customer will not have to wait in the queue. 
 	   
 	   2.There will not be rush in canteens. 
@@ -75,6 +77,7 @@ Advantages:
 
 	   5.online payment.
 
+---------------------------------------------------------------------------------------------------------------------
 
       
      
