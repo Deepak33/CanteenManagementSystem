@@ -29,5 +29,4 @@ Note:
      3. I have also created sign up page for user registration.
      4. Created database in xampp for user registration.
      5. User can sign in and go through the different canteen list.
-     6. Till now my project is not commlete so it may create some problems.
-     7. They can order or pay the bill through online or cash on delivery
+     6. They can order or pay the bill through online or cash on delivery
